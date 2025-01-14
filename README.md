@@ -64,4 +64,5 @@ Product analysis highlighted key performance trends, including a core price rang
 **Inventory Optimization** Seasonal sales peaks and a concentrated core price range (£0.85–£3.75) indicate an opportunity to optimize stock levels based on demand patterns. Focusing on high-margin products during peak months (November–December) will ensure maximum revenue while minimizing overstock or stockouts.
 
 ### **PowerBI Dashboard**
-[dashboard placeholder]
+
+![1_GO3J-OjFCxSh2r4H56_Pdw](https://github.com/user-attachments/assets/e97aebf5-e78c-47d8-9a46-472a60ef5a33)
